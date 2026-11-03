@@ -54,7 +54,7 @@ Evaluacion/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/lmatsan/evaluacion_LLM.git
+git clone https://github.com/lmatsan/tenerife-asistente-rag.git
 cd Evaluacion
 
 # 2. Crear entorno virtual
